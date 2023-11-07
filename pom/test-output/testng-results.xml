@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-06T20:44:35 BOT" name="Default suite" finished-at="2023-11-06T20:44:37 BOT" duration-ms="2049">
+    <groups>
+    </groups>
+    <test started-at="2023-11-06T20:44:35 BOT" name="Default test" finished-at="2023-11-06T20:44:37 BOT" duration-ms="2049">
+      <class name="login_Suite.TC02_SelectProduct">
+        <test-method is-config="true" signature="iniciarWebDriver()[pri:0, instance:login_Suite.TC02_SelectProduct@1c55f277]" started-at="2023-11-06T20:44:35 BOT" name="iniciarWebDriver" finished-at="2023-11-06T20:44:36 BOT" duration-ms="1358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarWebDriver -->
+        <test-method signature="TC_02()[pri:0, instance:login_Suite.TC02_SelectProduct@1c55f277]" started-at="2023-11-06T20:44:36 BOT" name="TC_02" finished-at="2023-11-06T20:44:37 BOT" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:login_Suite.TC02_SelectProduct@1c55f277]" started-at="2023-11-06T20:44:37 BOT" name="closeDriver" finished-at="2023-11-06T20:44:37 BOT" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- login_Suite.TC02_SelectProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
